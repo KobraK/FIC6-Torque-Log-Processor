@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.build-venv/
+.build-venv-311/
+
+# PyInstaller
+build/pyinstaller/
+build/spec/
+build/FIC6_Torque_Processor/
+build/*.spec
+*.spec
+
+# Local generated outputs
+dist/
+*.log
+fused*.csv
+fic6.csv
+torque_log.csv
+cleaned_*.csv
+aligned_*.csv
+fuel_trim_*.csv
+interactive_time_series*.html
