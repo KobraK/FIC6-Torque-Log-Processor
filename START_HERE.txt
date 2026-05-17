@@ -1,0 +1,18 @@
+FIC6 Torque Processor
+
+How to use:
+
+1. Double-click FIC6_Torque_Processor.exe.
+2. Pick your FIC6 .txt log.
+3. Pick your Torque .csv log.
+4. Click the buttons from top to bottom:
+   - Text to CSV
+   - Sanitize Headers
+   - Sanitize 2nd Step
+   - Resample & Merge
+   - RPM Offset Correction
+   - AFR Analysis, Fuel Trim Analysis, or Interactive Plot
+
+The app writes its output files into the same folder as the selected logs.
+
+This is portable. The person using it does not need Python installed.
